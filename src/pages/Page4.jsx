@@ -23,7 +23,7 @@ const Page4 = () => {
             scrollTrigger: {
                 trigger: '#page4trigger',
                 start: 'top top',
-                end: '+=5000 bottom',
+                end: '+=9000 bottom',
                 // pinSpacing: true,
                 pin: '#page4trigger',
                 scrub: 1,
