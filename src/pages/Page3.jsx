@@ -108,7 +108,7 @@ const Page3 = () => {
 
                 <div className='text-[350px] font-bold text-white p-[25px] font-spectral w-[auto] whitespace-nowrap'>
                     {/* I was 20 when I've realized that these constant feeling of sadness was depression. */}
-                    I don't know why I'm always <span className='font-lobster'>sad</span>. I'm always <span className='font-lobster'>unhappy</span>. I don't enjoy things any longer.
+                    You are always <span className='font-lobster'>strong</span>. You are always <span className='font-lobster'>resilient</span>. You will achieve great things ahead.
                 </div>
             </div>
         </div>
