@@ -109,7 +109,7 @@ const Page4 = () => {
                 </div>
 
                 <div className='text-[350px] font-bold text-black p-[25px] font-spectral w-[auto] whitespace-nowrap'>
-                    do I everything in <span className='font-lobster'>joy</span> feel don't I .not I'm Because 20s? your <span className='font-lobster'>enjoying</span> you Are
+                    .growing are you ,failing not Because .beginning is <span className='font-lobster'>journey</span> Your .everything <span className='font-lobster'>capable</span> You
                 </div>
             </div>
         </div>
