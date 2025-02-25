@@ -107,7 +107,7 @@ const Page5 = () => {
                 </div>
 
                 <div className='text-[350px] font-bold text-black p-[25px] font-spectral  w-[auto] whitespace-nowrap'>
-                    Hoping that my feelings get <span className='font-lobster'>better</span> as the <span className='font-lobster'>time</span> goes by. <span className='font-lobster'>Time</span> will tell everything .
+                    Knowing that my future gets <span className='font-lobster'>brighter</span> as the <span className='font-lobster'>days</span> go by. <span className='font-lobster'>Faith</span> will guide everything.
                 </div>
             </div>
         </div>
